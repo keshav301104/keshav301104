@@ -64,7 +64,7 @@ I am a **NASA Space Apps Winner** and an AI Architect bridging the gap between *
 |:---:|:---|:---|
 | **NeuralAudit** | A comprehensive framework for evaluating RAG pipelines using LLM-as-a-Judge. | `Python` `LangChain` `Streamlit` |
 | **AmbedkarGPT** | Conversational AI dedicated to Dr. B.R. Ambedkar with 3D Graph Visualization. | `Next.js` `Neo4j` `OpenAI` |
-| **Voice Agent** | Real-time conversational voice agent for dental clinic appointments. | `Retell AI` `Twilio` `n8n` |
+| **AML Agentic AI** | Autonomous Multi-Agent System for Anti-Money Laundering detection and analysis. | `LangGraph` `Streamlit` `Python` |
 | **SeismoSearch** | Data Science pipeline for analyzing and predicting seismic activity patterns. | `Python` `Pandas` `Scikit-Learn` |
 
 ---
