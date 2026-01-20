@@ -27,10 +27,10 @@
 
 I am a **NASA Space Apps Winner** and an AI Architect bridging the gap between **Advanced Research** and **Production Engineering**. My work focuses on building autonomous agents, SemRAG pipelines, and scalable backends that solve complex, real-world problems.
 
-- 🔭 **Currently Building:** [NeuralAudit](https://github.com/keshav301104/NeuralAudit) (RAG Eval Framework) & [AmbedkarGPT](https://github.com/keshav301104/AmbedkarGPT).
+- 🔭 **Operational Focus:** Autonomous Agents, RAG Pipelines, & Scalable Systems.
 - 🏆 **Achievement:** NASA Space Apps Challenge Winner (2025).
 - 🎓 **Education:** B.Tech at VIT-AP University (Final Year).
-- ⚡ **Core Focus:** Reliability, Scalability, and Decision-Critical AI.
+- ⚡ **Engineering Philosophy:** Reliability, Scalability, and Decision-Critical AI.
 
 ---
 
