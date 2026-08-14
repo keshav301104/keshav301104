@@ -127,10 +127,10 @@ I am an AI/ML Engineer with a deep mathematical foundation, architecting **0→1
 <div align="center">
 
   <a href="https://github.com/keshav301104">
-    <img src="https://github-readme-stats.vercel.app/api?username=keshav301104&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&v=3" alt="Stats" width="48%" />
+    <img src="https://github-readme-stats-puce-five-77.vercel.app/api?username=keshav301104&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&v=3" alt="Stats" width="48%" />
   </a>
   <a href="https://github.com/keshav301104">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav301104&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&v=3" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats-puce-five-77.vercel.app/api/top-langs/?username=keshav301104&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&v=3" alt="Top Languages" width="48%" />
   </a>
 
   <br><br>
